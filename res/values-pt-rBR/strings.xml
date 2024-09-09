@@ -40,7 +40,7 @@
     <string name="IDLE">"INATIVO"</string>
     <string name="Name_Invalid_">"Nome inválido."</string>
     <string name="Name_Taken_">"Nome em uso."</string>
-    <string name="CONNECTED">"CONECTADO.."</string>
+    <string name="CONNECTED">"CONECTADO..."</string>
     <string name="JOINING___">"JUNTANDO…"</string>
     <string name="PLAYING">"JOGANDO"</string>
     <string name="MULTIPLAYER">"MULTIJOGADOR"</string>
